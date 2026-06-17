@@ -47,6 +47,7 @@ Our project **“Echoes of the Forbidden City”** won **Second Prize** in the *
 <p align="center">
   <img src="https://github.com/mehedi8603651/mehedi8603651/blob/main/2nd%20price%20for%20compitations%20in%20sichuan.png?raw=true" alt="2nd Prize Certificate - Sichuan Computer Design Competition" width="700">
 </p>
+---
 ## 📦 Featured Work
 
 ### 🔹 Chorchaghor
