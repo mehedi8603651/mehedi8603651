@@ -38,7 +38,15 @@ I'm also the **Founder & CEO of [Chorchaghor](https://chorchaghor.com)** — a B
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
 ---
+## 🏆 Achievements
 
+### 🥈 2nd Prize — Sichuan Provincial Computer Design Competition
+
+Our project **“Echoes of the Forbidden City”** won **Second Prize** in the **2026 Sichuan Provincial College Student Computer Design Competition**.
+
+<p align="center">
+  <img src="https://github.com/mehedi8603651/mehedi8603651/blob/main/2nd%20price%20for%20compitations%20in%20sichuan.png?raw=true" alt="2nd Prize Certificate - Sichuan Computer Design Competition" width="700">
+</p>
 ## 📦 Featured Work
 
 ### 🔹 Chorchaghor
